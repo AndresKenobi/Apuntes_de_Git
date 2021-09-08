@@ -252,9 +252,6 @@ ls: lista los directorios y archivos
 pwd: para ver en que ruta de nuestro sistema esta posicionado nuestra consola (Bash)
 cd <carpeta>: nos da acceso a esa carpeta
 
-git token 
-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
-
 git config --global user.name
 	muestra el usuario de github
 git config --global user.email
